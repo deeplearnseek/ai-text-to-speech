@@ -7,7 +7,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/deeplearnseek/ai-emotional-voice-generator?style=social)](https://github.com/deeplearnseek/ai-emotional-voice-generator/stargazers)
 
 <div align="center">
-  <img src="assets/screenshot.jpg" alt="AI Emotional Voice Generator Screenshot" width="700" />
+  <img width="1280" height="720" alt="ai-menu-designer-screenshot" src="https://github.com/user-attachments/assets/b500ec71-af08-44de-beaa-dc639bc7e1f0" />
 </div>
 
 ---
