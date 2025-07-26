@@ -68,9 +68,4 @@
 
 ---
 
-## 📷 Screenshot
 
-> *(Replace the placeholder below once your screenshot is uploaded)*
-
-```markdown
-![Tool Screenshot](assets/screenshot.jpg)
